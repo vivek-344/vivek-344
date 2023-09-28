@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivekraj Singh Sisodiya</h1>
 <h3 align="center">A passionate android developer from India</h3>
-
----
   
 ## &#x1f4c8; My GitHub Stats
 | Vivek's GitHub Stats | GitHub Streak |
