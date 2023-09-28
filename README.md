@@ -1,6 +1,3 @@
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/vivek344"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/vivek344" /></a></p><br><br>
-
 <h1 align="center">Hi 👋, I'm Vivekraj Singh Sisodiya</h1>
 <h3 align="center">A passionate android developer from India</h3>
 
