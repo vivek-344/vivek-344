@@ -1,4 +1,4 @@
-<h1 align="center">[Hi 👋, I'm Vivekraj Singh Sisodiya](https://github.com/vivek-344)</h1>
+<h1 align="center"><a href="https://github.com/vivek-344">Hi 👋, I'm Vivekraj Singh Sisodiya</a></h1>
 <h3 align="center">A passionate android developer from India</h3>
 
 <br>
