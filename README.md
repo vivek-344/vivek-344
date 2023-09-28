@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Vivekraj Singh Sisodiya</h1>
 <h3 align="center">A passionate android developer from India</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek-344&show_icons=true&locale=en" alt="vivek-344" /></p>
+---
+  
+## &#x1f4c8; My GitHub Stats
+| Vivek's GitHub Stats | GitHub Streak |
+| --- | --- |
+[![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivek-344&show_icons=true)](https://github.com/vivek-344) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vivek-344)](https://github.com/vivek-344) |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-344&" alt="vivek-344" /></p>
+---
 
 - 🔭 I’m currently working on [Suraksha](https://github.com/Satverse/Suraksha)
 
