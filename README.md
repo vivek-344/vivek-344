@@ -3,7 +3,7 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vivek-344&show_icons=true&locale=en" alt="vivek-344" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-344&" alt="vivek-344" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-344&" alt="vivek-344" /></p>
 
 - 🔭 I’m currently working on [Suraksha](https://github.com/Satverse/Suraksha)
 
