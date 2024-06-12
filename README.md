@@ -8,7 +8,7 @@
 
 ---
 
-- 🔭 I’m currently working on [Python Bootcamp]([https://github.com/Satverse/Suraksha](https://github.com/vivek-344/100DaysofCode-Python-Bootcamp))
+- 🔭 I’m currently working on [Python Bootcamp](https://github.com/vivek-344/100DaysofCode-Python-Bootcamp)
 
 - 🌱 I’m currently learning **Python**
 
