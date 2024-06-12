@@ -8,13 +8,13 @@
 
 ---
 
-- 🔭 I’m currently working on [Suraksha](https://github.com/Satverse/Suraksha)
+- 🔭 I’m currently working on [Python Bootcamp]([https://github.com/Satverse/Suraksha](https://github.com/vivek-344/100DaysofCode-Python-Bootcamp))
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Python**
 
-- 🤝 I’m looking for help with [Suraksha](https://github.com/Satverse/Suraksha)
+- 🤝 I’m looking for help with [Leetcode](https://leetcode.com/u/vivek344/)
 
-- 💬 Ask me about **Kotlin and Java**
+- 💬 Ask me about **Java and DSA**
 
 - 📫 How to reach me **vivekuit344@gmail.com**
 
