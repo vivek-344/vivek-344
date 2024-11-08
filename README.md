@@ -8,13 +8,13 @@
 
 ---
 
-- 🔭 I’m currently working on [Python Bootcamp](https://github.com/vivek-344/100DaysofCode-Python-Bootcamp)
+- 🔭 I’m currently working on [Banking System](https://github.com/vivek-344/banking-system)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **GoLang**
 
-- 🤝 I’m looking for help with [Leetcode](https://leetcode.com/u/vivek344/)
+<!-- - 🤝 I’m looking for help with [Leetcode](https://leetcode.com/u/vivek344/) -->
 
-- 💬 Ask me about **Java and DSA**
+- 💬 Ask me about **Java, DSA & GoLang**
 
 - 📫 How to reach me **vivekuit344@gmail.com**
 
